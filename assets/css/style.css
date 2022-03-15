@@ -44,6 +44,11 @@
   height: 500px;
 
 }
+#mygif{
+  width: 100%;
+  height: 500px;
+
+}
 
 #aboutimg{
   height: 400px;
@@ -66,8 +71,13 @@
   }
   #banner{
     width: 100%;
-    height: 170px;
+    height: 150px;
   
+  }
+  #mygif{
+    width: 100%;
+    height: 170px;
+
   }
   .about {
     padding: 0;
@@ -79,7 +89,7 @@
   }
   #head{
     font-family: debug;
-    font-size: 30px;
+    font-size: 28px;
   }
   #unl{
     width: 100%;
@@ -1220,7 +1230,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #009cea;
+  background: #fff;
   color: #fff;
 }
 
@@ -1243,7 +1253,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: #009cea;
+  font-family: #fff;
   font-size: 18px;
   font-weight: 500;
 }
@@ -1261,11 +1271,11 @@ section {
 }
 
 .faq .faq-list a.collapse {
-  color: #009cea;
+  color: #fff;
 }
 
 .faq .faq-list a.collapsed {
-  color: #343a40;
+  color: #fff;
 }
 
 .faq .faq-list a.collapsed:hover {
