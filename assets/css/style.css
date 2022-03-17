@@ -41,7 +41,7 @@
 #aboutpara{
   font-size: 18px;
   width: 400px;
-  margin-top: 60px;
+  margin-top: 40px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -84,8 +84,10 @@
   #aboutpara{
     font-size: 15px;
     width: 100%;
-  }
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
+  }
   #aboutimg{
     height: 100%;
     width: 100%;
@@ -580,7 +582,7 @@ section {
   font-weight: 400;
   font-size: 32px;
   color: #364146;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .about .content ul {
