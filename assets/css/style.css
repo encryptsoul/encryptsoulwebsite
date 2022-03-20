@@ -74,9 +74,48 @@
 #unl{
   width: 50%;
 }
+#mint{
+  color: white;
+  font-family: debug;
+  margin-top: 20px;
+  font-size:50px;
+}
+#demo{
+color: white;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 20px;
+font-size:50px;
+
+}
+#link{
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 20px;
+font-size:30px;
+
+}
 
 
 @media screen and (max-width: 400px) {
+  #mint{
+		color: white;
+		font-family: debug;
+		margin-top: 20px;
+		font-size:30px;
+	}
+	#demo{
+	  color: white;
+	  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	  margin-top: 20px;
+	  font-size:35px;
+	}
+	#link{
+		color: white;
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+		margin-top: 20px;
+		font-size:15px;
+	  
+	}
   #points{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
